@@ -17,11 +17,35 @@ I'm a passionate web developer from Ghaziabad, India, with a strong foundation i
 
 ## 📌 Featured Projects
 
-### 🔷 [Digital Content Marketplace](#)
-A full-stack Django platform where developers can sell and preview code snippets (HTML, CSS, JS, Python). Includes subscription-based chat, Razorpay/PayPal integration, and live previews.
+### 🔷 Code Mart – Full-Stack Django Marketplace
+A decentralised platform where developers can sell HTML, CSS, JS, and Python code snippets with live previews.
 
-### 🔷 [TechTweet](#)
-A Twitter-like social media platform built with Django. Supports user registration, post creation, and commenting with MySQL integration.
+Developed dual-role system (Developer & Customer) with role-based dashboards
+
+Integrated Razorpay & PayPal for secure purchases and subscriptions
+
+Built subscription-based chat, download-on-purchase, and dispute resolution features
+Tech Stack: Django, Mysql, HTML, CSS, Bootstrap, JavaScript
+
+### 🔷 TechTweet – Django Social Media Web App
+A microblogging platform inspired by Twitter, allowing users to post, interact, and explore content.
+
+Implemented user authentication, tweet creation, likes, comments, and user profiles
+
+Used Django ORM with MySQL for efficient data modeling
+
+Managed code versioning and collaboration using Git
+Tech Stack: Django, MySQL, HTML, CSS, JavaScript
+
+### 🔷 CookConnect – Recipe Sharing & Social Network Platform
+A hybrid web app for recipe sharing and social interactions like following, liking, and messaging.
+
+Users can post recipes with images/videos and tag ingredients or cuisines
+
+Features include bookmarks, comments, chat, trending posts, and notifications
+
+Designed to be mobile-responsive with smooth UI/UX using Bootstrap
+Tech Stack: Django, MySQL, HTML, CSS, JavaScript, Bootstrap
 
 ---
 
@@ -30,7 +54,7 @@ A Twitter-like social media platform built with Django. Supports user registrati
 - Django - IT Vedant Institute
 - Python Programming – IT Vedant Institute  
 - Core Web Development – IT Vedant Institute  
-- MySQL Course – IT Vedant Institute  
+- Mysql Course – IT Vedant Institute  
 
 ---
 
@@ -45,7 +69,7 @@ A Twitter-like social media platform built with Django. Supports user registrati
 ## 📫 Let's connect!
 
 - 📧 Email: chaurasiavipul98@gmail.com  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/vipul-chaurasia-3703a225b/?trk=opento_sprofile_details]  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/vipul-chaurasia]  
 
 ---
 
