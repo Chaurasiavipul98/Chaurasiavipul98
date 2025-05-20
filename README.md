@@ -18,21 +18,23 @@ I'm a passionate web developer from Ghaziabad, India, with a strong foundation i
 ## Featured Projects
 
 ### Code Mart – Full-Stack Django Marketplace
+[https://github.com/Chaurasiavipul98/Code-Mart]
+
 A decentralised platform where developers can sell HTML, CSS, JS, and Python code snippets with live previews.
 
 Developed dual-role system (Developer & Customer) with role-based dashboards
 
-Integrated Razorpay & PayPal for secure purchases and subscriptions
+Integrated Razorpay for secure purchases and subscriptions
 
 Built subscription-based chat, download-on-purchase, and dispute resolution features
-Tech Stack: Django, Mysql, HTML, CSS, Bootstrap, JavaScript
+Tech Stack: Django, MySQL, HTML, CSS, Bootstrap, JavaScript
 
 ### TechTweet – Django Social Media Web App
 A microblogging platform inspired by Twitter, allowing users to post, interact, and explore content.
 
 Implemented user authentication, tweet creation, likes, comments, and user profiles
 
-Used Django ORM with MySQL for efficient data modeling
+Used Django ORM with MySQL for efficient data modelling
 
 Managed code versioning and collaboration using Git
 Tech Stack: Django, MySQL, HTML, CSS, JavaScript
@@ -54,7 +56,7 @@ Tech Stack: Django, MySQL, HTML, CSS, JavaScript, Bootstrap
 - Django - IT Vedant Institute
 - Python Programming – IT Vedant Institute  
 - Core Web Development – IT Vedant Institute  
-- Mysql Course – IT Vedant Institute  
+- MySQL Course – IT Vedant Institute  
 
 ---
 
