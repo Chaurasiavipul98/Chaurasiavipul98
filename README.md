@@ -18,7 +18,6 @@ I'm a passionate web developer from Ghaziabad, India, with a strong foundation i
 ## Featured Projects
 
 ### Code Mart – Full-Stack Django Marketplace
-[https://github.com/Chaurasiavipul98/Code-Mart]
 
 A decentralised platform where developers can sell HTML, CSS, JS, and Python code snippets with live previews.
 
